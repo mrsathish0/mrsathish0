@@ -27,12 +27,12 @@
     <img src="https://img.shields.io/badge/Gmail-rjsathish2005-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/sathish-r" target="_blank">
+  <a href="https://www.linkedin.com/in/sathish-r-0853942a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sathish%20R-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://dratflix.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-dratflix.vercel.app-6C63FF?style=flat-square&logo=vercel&logoColor=white"/>
+  <a href="https://sathishr.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sathishr.vercel.app-6C63FF?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Tindivanam%2C%20TN-success?style=flat-square&logo=google-maps&logoColor=white"/>
